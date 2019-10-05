@@ -21,8 +21,12 @@
   },
   "homepage": "https://github.com/Alpha1202/React-Application#readme",
   "devDependencies": {
+    "babel-eslint": "^10.0.3",
     "eslint": "^6.5.1",
     "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.16.0",
     "parcel-bundler": "^1.12.3",
     "prettier": "^1.18.2"
   },
